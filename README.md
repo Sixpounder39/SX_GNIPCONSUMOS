@@ -1,6 +1,6 @@
 # SX_GNIPCONSUMOS
 
-Herramienta para monitorear los consumos que se van generando cada determinado tiempo desde la plataforma empresarial de GNIP PowerTrack de Twitter (https://console.gnip.com/users/sign_in).
+Herramienta para monitorear los consumos que se van generando cada determinado tiempo desde la plataforma empresarial de GNIP PowerTrack de Twitter (https://console.gnip.com/users/sign_in). // RESPALDO DE MI CUENTA ANTERIOR
 
 PowerTrack provee covertura completa en tiempo real de los tweets generados sin restricciones por medio de keywords a peticiones vía API, sin embargo la presente herramienta funciona para monitorear de manera gráfica nuestro consumo de créditos y observar el uso de los mismos cada día.
 
